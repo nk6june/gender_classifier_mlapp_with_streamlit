@@ -1,5 +1,4 @@
 # Gender Classifier web app deployed on Heroku
-# Penguins web app deployed on Heroku
 
 The deployed web app is live at https://gender-ml-classify.herokuapp.com/ 
 
