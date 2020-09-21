@@ -1,5 +1,14 @@
-# Gender_classifier_mlapp_with_streamlit
+# Gender Classifier web app deployed on Heroku
+# Penguins web app deployed on Heroku
 
-# Deployed the app @https://gender-ml-classify.herokuapp.com/ 
+The deployed web app is live at https://gender-ml-classify.herokuapp.com/ 
 
-## Guys..Please check it out and let me know your suggestions :)
+This web app predicts whether the given names is male or female as a function of their input parameters (Name).
+
+The web app was built in Python using the following libraries:
+* streamlit
+* pandas
+* numpy
+* scikit-learn
+* pillow
+* joblib
