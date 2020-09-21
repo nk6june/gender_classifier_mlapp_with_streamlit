@@ -1,3 +1,0 @@
-streamlit==0.63.0
-joblib==0.13.2
-pillow==6.2.0
