@@ -5,6 +5,9 @@ import joblib
 import time
 from PIL import Image
 
+PAGE_CONFIG = {"page_title":'Gender Application', "page_icon":":smiley:", "layout":"centered"}
+st.beta_set_page_config(**PAGE_CONFIG)
+
 # load Vectorizer For Gender Prediction
 gender_vectorizer = open("models/gender_vectorizer.pkl","rb")
 gender_cv = joblib.load(gender_vectorizer)
